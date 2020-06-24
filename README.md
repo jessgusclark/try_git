@@ -8,3 +8,7 @@ Install
 -------
 To install remove 'example' from secret_octocat.example.txt and
 add your password to line 2.
+
+### Update: 6/24/2020
+
+This is an addition onf June 24th to test out the Yubikey permissions.
