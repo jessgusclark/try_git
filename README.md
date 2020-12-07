@@ -1,8 +1,6 @@
-[![Stories in Ready](https://badge.waffle.io/jessgusclark/try_git.png?label=ready&title=Ready)](https://waffle.io/jessgusclark/try_git)
-try_git
-=======
+# Try GIT
 
-This is a test repository for playing with git.
+Initially, this is a test repository for playing with git. Now I use it to test various features.
 
 Install
 -------
