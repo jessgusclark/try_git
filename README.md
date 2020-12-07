@@ -12,3 +12,7 @@ add your password to line 2.
 ### Update: 6/24/2020
 
 This is an addition onf June 24th to test out the Yubikey permissions.
+
+### Update: 12/7/2020
+
+Testing signed commits
